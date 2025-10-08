@@ -1,2 +1,2 @@
 # SITS_Comparison_CropId
-Satellite Image Time Series Method Comparison for InGARSS 2025
+Comparitive Evaluation of Transformer-Based Models for Satellite Time-Series Crop Classification: Grapes and Strawberries Case Studies in California
